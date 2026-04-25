@@ -43,7 +43,7 @@ fbxviewer/
 
 ## Demo
 <figure>
-  <video src="demo_vids/caulongbien(1).mp4" muted controls="controls" style="max-width: 100%;">
+  <video src="demo_vids/caulongbien.mp4" muted controls="controls" style="max-width: 100%;">
   </video>
   <figcaption align="center"><i>Hoàng hôn ở cầu Long Biên rất đẹp</i></figcaption>
 </figure>
