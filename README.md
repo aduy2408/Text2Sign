@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1f970628-3ae0-4de6-8277-191f7b4ee554
+
 # FBX Animation Viewer
 
 > Web app for Text2Sign. Text → pose → FBX → 3D viewer on web.
@@ -43,17 +47,16 @@ fbxviewer/
 
 ## Demo
 <figure>
-  <video src="demo_vids/caulongbien.mp4" muted controls="controls" style="max-width: 100%;">
+  <video src="https://github.com/user-attachments/assets/15d8c85d-6f60-43a8-800a-8a6891e9259a" muted controls="controls" style="max-width: 100%;">
   </video>
   <figcaption align="center"><i>Hoàng hôn ở cầu Long Biên rất đẹp</i></figcaption>
 </figure>
-
+<br/>
 <figure>
-  <video src="demo_vids/chuacuaban.mp4" muted controls="controls" style="max-width: 100%;">
+  <video src="https://github.com/user-attachments/assets/32ff701b-5eed-4e8e-8f60-fc5d4fb2ee43" muted controls="controls" style="max-width: 100%;">
   </video>
   <figcaption align="center"><i>Chú của bạn đã 40 tuổi</i></figcaption>
 </figure>
-
 
 ## Important notes
 
