@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/1f970628-3ae0-4de6-8277-191f7b4ee554
-
 # FBX Animation Viewer
 
 > Web app for Text2Sign. Text → pose → FBX → 3D viewer on web.
